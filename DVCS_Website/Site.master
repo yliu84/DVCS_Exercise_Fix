@@ -60,6 +60,7 @@
                                 <li><a runat="server" href="~/PageOne">Page One</a></li>
                                 <li><a runat="server" href="~/PageTwo">Page Two</a></li>
                                 <li><a runat="server" href="~/PageThree">Page Three</a></li>
+                                <li><a runat="server" href="~/PageFour">Page Four</a></li>
                                 <li><a runat="server" href="~/Account/Register">Register</a></li>
                                 <li><a runat="server" href="~/Account/Login">Log in</a></li>
                             </ul>
